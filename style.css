@@ -82,7 +82,7 @@ body {
 }
 
 .lorem {
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: Open Sans;
   font-size: 18px;
   margin-top: 40px;
@@ -142,7 +142,7 @@ body {
 }
 
 .section-p {
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: Open Sans;
   font-size: 16px;
   line-height: 160%;
@@ -186,14 +186,14 @@ body {
 }
 
 .container-3 h1 {
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   text-align: center;
   font-family: Open Sans;
   font-size: 25px;
 }
 
 .container-3 p {
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   text-align: center;
   font-family: Open Sans;
   font-size: 16px;
@@ -218,7 +218,7 @@ body {
 }
 
 .container-4 p {
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: Open Sans;
   font-size: 16px;
   line-height: 160%;
@@ -241,7 +241,7 @@ body {
 
 .container-5 p {
   margin-top: 15px;
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: Open Sans;
   font-size: 14px;
   margin-top: 9px;
@@ -266,7 +266,7 @@ body {
 
 .container-6 a {
   margin-top: 19.34px;
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: open sans;
   font-size: 14px;
   text-decoration: none;
@@ -282,7 +282,7 @@ body {
 
 .container-7 a {
   margin-top: 19.34px;
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: open sans;
   font-size: 14px;
   text-decoration: none;
@@ -298,7 +298,7 @@ body {
 
 .container-8 a {
   margin-top: 19.34px;
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: open sans;
   font-size: 14px;
   text-decoration: none;
@@ -313,7 +313,7 @@ body {
 }
 
 .container-9 p {
-  color: var(--ffffff, #fff);
+  color: rgba(255, 255, 255, 0.5);
   font-family: open sans;
   font-size: 14px;
   margin-top: 30.94px;
